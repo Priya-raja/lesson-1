@@ -13,4 +13,3 @@ for k in range(len(l)):
             print(l[k], end =" ")
 print()
 
-s
